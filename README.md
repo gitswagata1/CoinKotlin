@@ -1,4 +1,4 @@
-# CoinKotlin- A Simple Cryptocurrency in Kotlin*
+# CoinKotlin- A Simple Cryptocurrency in Kotlin
 
 # Repository Structure:
 ```
