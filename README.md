@@ -15,7 +15,7 @@ CoinKotlin/
 ```
 
 # Overview
-This project implements a basic blockchain and mining system in Kotlin. It is inspired by Bitcoin's structure and is designed for educational purposes.
+This project implements a basic blockchain and mining system in Kotlin. It is inspired by Bitcoin's structure 
 
 # Features
 - Block structure with cryptographic hashing (SHA-256)
