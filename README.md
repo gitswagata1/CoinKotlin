@@ -63,4 +63,3 @@ Block(previousHash=1621970956c..., data=I'm the third, hash=d5a1d82930d...)
 - Create a network for decentralized block distribution
 
 🚀
-```
