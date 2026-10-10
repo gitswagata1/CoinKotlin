@@ -1,0 +1,12 @@
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.gradle/
+build/
+.idea/
+*.iml
+out/
+.kotlin/
+local.properties
