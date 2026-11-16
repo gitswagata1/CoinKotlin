@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "kCoin: a blockchain in Kotlin"
+abstract: "A compact teaching implementation of a blockchain with proof of work, wallets, signed transactions and a UTXO ledger."
+type: software
+authors:
+  - family-names: "Banerjee"
+    given-names: "Swagata"
+repository-code: "https://github.com/gitswagata1/CoinKotlin"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-16"
+keywords:
+  - blockchain
+  - kotlin
+  - cryptocurrency
+  - education

@@ -76,6 +76,13 @@ This is a teaching implementation. It has a single in-memory chain, no networkin
 consensus between nodes, a fixed low difficulty and no persistence, so it must not be used
 to hold real value.
 
+## Roadmap, contributing and citation
+
+- **Roadmap:** [ROADMAP.md](ROADMAP.md) lists planned work and directions for the project.
+- **Contributing:** see [CONTRIBUTING.md](CONTRIBUTING.md) and the
+  [Code of Conduct](CODE_OF_CONDUCT.md). Issues labelled `good first issue` are a friendly start.
+- **Citation:** [CITATION.cff](CITATION.cff) powers GitHub's "Cite this repository" button.
+
 ## License
 
 Released under the [MIT License](LICENSE).
